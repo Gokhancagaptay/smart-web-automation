@@ -1,0 +1,79 @@
+# ===========================================
+# YTMA - Git Ignore
+# ===========================================
+
+# Environment Variables (HASSAS BİLGİLER!)
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Test & Coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp_*.png
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Evidence & Reports (test çıktıları)
+evidence/
+reports/
+*.csv
+mega_test_report_*.json
+multi_site_report_*.json
+
+# Auto-captured prototypes (kendi veriniz)
+prototypes/auto_captured/
+
+# Silinecekler
+_SILINECEKLER/
+
+# Training Data (büyük dosyalar - repo dışında)
+buttons/
+inputs/
+dataset_ready/

@@ -1,0 +1,19 @@
+# YTMA - AI-Powered E-Commerce Automation
+# Python 3.11+ Required
+
+# Browser Automation
+selenium>=4.0.0
+webdriver-manager>=4.0.0
+
+# Machine Learning
+tensorflow>=2.10.0
+numpy>=1.23.0
+
+# Image Processing
+pillow>=10.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional - Gemini AI Integration
+google-generativeai>=0.3.0
