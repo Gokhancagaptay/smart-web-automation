@@ -324,7 +324,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📞 İletişim
 
-- **Email**: cagaptay09@gmail.com
+- **Email**: your-email@example.com
 - **GitHub**: [github.com/username/ytma](https://github.com/username/ytma)
 
 ---

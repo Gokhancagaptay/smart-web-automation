@@ -547,4 +547,4 @@ Iteration | Success Rate
 
 **Bu doküman güncellenme tarihi:** 2026-01-03
 
-**İletişim:** cagaptay09@gmail.com
+**İletişim:** your-email@example.com
