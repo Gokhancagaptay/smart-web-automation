@@ -2,8 +2,8 @@
   "n11_email": {
     "site": "n11",
     "category": "email",
-    "attempts": 41,
-    "successes": 41,
+    "attempts": 43,
+    "successes": 43,
     "best_selectors": [
       {
         "id": "email",
@@ -12,8 +12,8 @@
         "text": "",
         "score": 0.99,
         "action_type": "TYPE",
-        "success_count": 37,
-        "last_used": "2026-01-03T16:45:29.921449"
+        "success_count": 39,
+        "last_used": "2026-01-07T18:41:33.755410"
       },
       {
         "id": "",
@@ -36,14 +36,14 @@
         "last_used": "2025-12-18T17:28:16.001940"
       }
     ],
-    "last_updated": "2026-01-03T16:45:29.921449",
+    "last_updated": "2026-01-07T18:41:33.755410",
     "success_rate": 1.0
   },
   "n11_password": {
     "site": "n11",
     "category": "password",
-    "attempts": 40,
-    "successes": 40,
+    "attempts": 42,
+    "successes": 42,
     "best_selectors": [
       {
         "id": "password",
@@ -52,8 +52,8 @@
         "text": "",
         "score": 0.906,
         "action_type": "TYPE",
-        "success_count": 37,
-        "last_used": "2026-01-03T16:45:39.268253"
+        "success_count": 39,
+        "last_used": "2026-01-07T18:41:46.978339"
       },
       {
         "id": "",
@@ -66,14 +66,14 @@
         "last_used": "2026-01-01T00:05:57.042400"
       }
     ],
-    "last_updated": "2026-01-03T16:45:39.268253",
+    "last_updated": "2026-01-07T18:41:46.978339",
     "success_rate": 1.0
   },
   "n11_add_to_cart": {
     "site": "n11",
     "category": "add_to_cart",
-    "attempts": 18,
-    "successes": 18,
+    "attempts": 20,
+    "successes": 20,
     "best_selectors": [
       {
         "id": "addToBasket",
@@ -82,8 +82,8 @@
         "text": "",
         "score": 0.25,
         "action_type": "CLICK",
-        "success_count": 17,
-        "last_used": "2026-01-03T16:46:17.786587"
+        "success_count": 19,
+        "last_used": "2026-01-07T18:42:22.810133"
       },
       {
         "id": "",
@@ -96,14 +96,14 @@
         "last_used": "2025-12-18T17:29:22.229162"
       }
     ],
-    "last_updated": "2026-01-03T16:46:17.786587",
+    "last_updated": "2026-01-07T18:42:22.810133",
     "success_rate": 1.0
   },
   "n11_button": {
     "site": "n11",
     "category": "button",
-    "attempts": 77,
-    "successes": 77,
+    "attempts": 81,
+    "successes": 81,
     "best_selectors": [
       {
         "id": "",
@@ -112,8 +112,8 @@
         "text": "Giriş Yap",
         "score": 1.216,
         "action_type": "CLICK",
-        "success_count": 73,
-        "last_used": "2026-01-03T16:45:40.991417"
+        "success_count": 77,
+        "last_used": "2026-01-07T18:41:48.687674"
       },
       {
         "id": "",
@@ -126,14 +126,14 @@
         "last_used": "2026-01-01T00:20:38.291147"
       }
     ],
-    "last_updated": "2026-01-03T16:45:40.991417",
+    "last_updated": "2026-01-07T18:41:48.687674",
     "success_rate": 1.0
   },
   "n11_search": {
     "site": "n11",
     "category": "search",
-    "attempts": 33,
-    "successes": 33,
+    "attempts": 35,
+    "successes": 35,
     "best_selectors": [
       {
         "id": "",
@@ -142,8 +142,8 @@
         "text": "",
         "score": 0.961,
         "action_type": "TYPE",
-        "success_count": 32,
-        "last_used": "2026-01-03T16:46:01.814624"
+        "success_count": 34,
+        "last_used": "2026-01-07T18:42:07.867248"
       },
       {
         "id": "email",
@@ -156,14 +156,14 @@
         "last_used": "2026-01-01T00:24:58.479243"
       }
     ],
-    "last_updated": "2026-01-03T16:46:01.814624",
+    "last_updated": "2026-01-07T18:42:07.867248",
     "success_rate": 1.0
   },
   "n11_checkout": {
     "site": "n11",
     "category": "checkout",
-    "attempts": 43,
-    "successes": 43,
+    "attempts": 45,
+    "successes": 45,
     "best_selectors": [
       {
         "id": "buy",
@@ -172,8 +172,8 @@
         "text": "Ödemeye Geç",
         "score": 0.98,
         "action_type": "CLICK",
-        "success_count": 40,
-        "last_used": "2026-01-03T16:46:26.456276"
+        "success_count": 42,
+        "last_used": "2026-01-07T18:42:30.269544"
       },
       {
         "id": "buy",
@@ -186,7 +186,7 @@
         "last_used": "2026-01-01T20:07:15.605730"
       }
     ],
-    "last_updated": "2026-01-03T16:46:26.456276",
+    "last_updated": "2026-01-07T18:42:30.269544",
     "success_rate": 1.0
   },
   "unknown_add_to_cart": {
@@ -222,8 +222,8 @@
   "unknown_cart": {
     "site": "unknown",
     "category": "cart",
-    "attempts": 15,
-    "successes": 15,
+    "attempts": 18,
+    "successes": 18,
     "best_selectors": [
       {
         "id": "",
@@ -232,8 +232,8 @@
         "text": "",
         "score": 0.68,
         "action_type": "CLICK",
-        "success_count": 12,
-        "last_used": "2026-01-03T16:46:24.292014"
+        "success_count": 14,
+        "last_used": "2026-01-07T18:42:28.819527"
       },
       {
         "id": "",
@@ -242,8 +242,8 @@
         "text": "",
         "score": 0.68,
         "action_type": "CLICK",
-        "success_count": 2,
-        "last_used": "2026-01-03T16:03:20.004105"
+        "success_count": 3,
+        "last_used": "2026-01-07T19:02:43.270712"
       },
       {
         "id": "",
@@ -256,15 +256,25 @@
         "last_used": "2026-01-02T19:38:04.940592"
       }
     ],
-    "last_updated": "2026-01-03T16:46:24.292014",
+    "last_updated": "2026-01-07T19:02:43.270712",
     "success_rate": 1.0
   },
   "unknown_checkout": {
     "site": "unknown",
     "category": "checkout",
-    "attempts": 1,
-    "successes": 1,
+    "attempts": 3,
+    "successes": 3,
     "best_selectors": [
+      {
+        "id": "",
+        "class": "other-payments",
+        "tag": "a",
+        "text": "",
+        "score": 0.98,
+        "action_type": "CLICK",
+        "success_count": 2,
+        "last_used": "2026-01-07T18:42:40.259074"
+      },
       {
         "id": "buy",
         "class": "button big purple",
@@ -276,7 +286,7 @@
         "last_used": "2026-01-02T17:51:39.229003"
       }
     ],
-    "last_updated": "2026-01-02T17:51:39.229003",
+    "last_updated": "2026-01-07T18:42:40.259074",
     "success_rate": 1.0
   },
   "trendyol_email": {
@@ -362,8 +372,8 @@
   "unknown_button": {
     "site": "unknown",
     "category": "button",
-    "attempts": 2,
-    "successes": 2,
+    "attempts": 3,
+    "successes": 3,
     "best_selectors": [
       {
         "id": "",
@@ -372,18 +382,18 @@
         "text": "",
         "score": 0.36,
         "action_type": "CLICK",
-        "success_count": 2,
-        "last_used": "2026-01-03T16:02:56.924603"
+        "success_count": 3,
+        "last_used": "2026-01-07T19:02:17.862186"
       }
     ],
-    "last_updated": "2026-01-03T16:02:56.924603",
+    "last_updated": "2026-01-07T19:02:17.862186",
     "success_rate": 1.0
   },
   "hepsiburada_add_to_cart": {
     "site": "hepsiburada",
     "category": "add_to_cart",
-    "attempts": 2,
-    "successes": 2,
+    "attempts": 3,
+    "successes": 3,
     "best_selectors": [
       {
         "id": "",
@@ -392,11 +402,11 @@
         "text": "Vaseline Vücut Losyonu Aloe Vera Ferahlığı Kuru Ci",
         "score": 0.235,
         "action_type": "CLICK",
-        "success_count": 2,
-        "last_used": "2026-01-03T16:03:15.200340"
+        "success_count": 3,
+        "last_used": "2026-01-07T19:02:36.925092"
       }
     ],
-    "last_updated": "2026-01-03T16:03:15.200340",
+    "last_updated": "2026-01-07T19:02:36.925092",
     "success_rate": 1.0
   }
 }
